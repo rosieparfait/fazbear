@@ -39,4 +39,4 @@ It's also connected to an Alexa skill which, when prompted with “enter attack 
 
 ## Circuit Connections
 
-[Connections](/readmeassets/fr.png)
+![Connections](/readmeassets/fr.png)
