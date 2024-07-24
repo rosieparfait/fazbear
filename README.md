@@ -1,8 +1,4 @@
-# Freddy Fazbear Luminary
-
-## Sole Member
-
-Rose Rodrigues (5784539 - rodr0875)
+# Interactive Themed Luminary
 
 ## Description
 
